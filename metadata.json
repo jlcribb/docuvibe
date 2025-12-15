@@ -1,0 +1,5 @@
+{
+  "name": "DocuVibe - Interactive Document Visualizer",
+  "description": "Transform static documents into interactive, structured, and animated visualizations using Gemini AI.",
+  "requestFramePermissions": []
+}
